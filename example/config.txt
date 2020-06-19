@@ -1,0 +1,2 @@
+Prefix plugins/FastQJoin/example/
+Plugin FastQJoin inputfile parameters.txt outputfile output
