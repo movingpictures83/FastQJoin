@@ -2,7 +2,8 @@
 # Language: C++
 # Input: TXT
 # Output: PREFIX
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: fastq-join 1.3.1
 
 PluMA plugin that uses fastq-join to join paired-end reads (Blankenberg et al, 2010).
 
